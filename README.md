@@ -33,3 +33,7 @@ steering AtliQ Grands toward strategic decisions for a triumphant comeback.
 ✅ DURN (Daily Utilized Room Nights) This metric tells us how many rooms are utilized per night   
 ✅ Realization tells about how many rooms were utilized among booked rooms and many more.   
 ✅ Weekend here indicates Friday and Saturday.   
+
+
+## Live dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiMTA5YTRmNzgtOTBiNi00Mjk2LTlkMmYtNzdlZjYzZTdiMWQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
